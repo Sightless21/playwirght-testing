@@ -1,3 +1,6 @@
+### Report
+- [Testcase Table](https://docs.google.com/spreadsheets/d/1MasyqAVyNgRP4zKtX24wFLWINLZTn7qGG3g7K42BIIg/edit?gid=0#gid=0)
+
 # How to use playwright commands
 
 **Usage**: npx playwright [options] [command]
